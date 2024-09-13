@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91617283-811d-4b51-8b59-9e5387d2e9d3" name="Changes" comment="" />
+    <list default="true" id="0daff796-b11b-4e04-b97b-55dec27b1165" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../entradaDeDadosJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../entradaDeDadosJava/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,30 +12,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2m1ExL335JV7HQHTU4kLRRPyDvD" />
+  <component name="ProjectId" id="2m1G4LzWmGrJUNRkr3S6leDdrWM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Admin/OneDrive/Área de Trabalho/Udemy Java nelio Alves/entradaDeDadosJava/src/Main.java&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/Admin/OneDrive/Área de Trabalho/Udemy Java nelio Alves/processamentoDadosJava/src/Main.java",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="91617283-811d-4b51-8b59-9e5387d2e9d3" name="Changes" comment="" />
-      <created>1726235928158</created>
+      <changelist id="0daff796-b11b-4e04-b97b-55dec27b1165" name="Changes" comment="" />
+      <created>1726236477549</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1726235928158</updated>
+      <updated>1726236477549</updated>
     </task>
     <servers />
   </component>
