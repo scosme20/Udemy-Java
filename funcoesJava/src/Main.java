@@ -1,39 +1,31 @@
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-    public static void main(String[] args){
-        Scanner exe = new Scanner(System.in);
+        System.out.println("Insira os números: ");
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int c = sc.nextInt();
 
-        System.out.println("Insira os numeros: ");
-        int a = exe.nextInt();
-        int b = exe.nextInt();
-        int c = exe.nextInt();
-
-        int higher = max(a, b, c);
-
-        showResult(higher);
-
-        exe.close();
+        int maior = max(a, b, c);
+        mostrar(maior);
+        sc.close();
     }
-
-    public static int max(int x, int y, int z) {
+    public static int max(int x, int y, int z){
         int aux;
-        if (x > y && x > z) {
+        if(x > y && x > z){
             aux = x;
-        }
-        else if (x > z) {
+        } else if (y > z) {
             aux = y;
-        }
-        else {
+        } else {
             aux = z;
         }
-
         return aux;
     }
 
-    public static void showResult(int value) {
-        System.out.println("Higher = " + value);
+    public static void mostrar(int value) {
+        System.out.println("Maior: " + value);
     }
 }
